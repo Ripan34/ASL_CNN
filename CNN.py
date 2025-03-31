@@ -52,7 +52,7 @@ model.compile(optimizer='adam',
 
 history = model.fit(
     train_generator,
-    epochs=25,
+    epochs=15,
     validation_data=validation_generator
 )
 

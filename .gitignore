@@ -1,3 +1,4 @@
 ASL/
 asl_data/
 .DS_STORE
+asl_model.h5
